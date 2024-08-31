@@ -22,7 +22,7 @@
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/chitchat.git
+    git clone https://github.com/imriadutta/chitchat.git
     cd chitchat
     ```
 
